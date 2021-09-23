@@ -28,6 +28,7 @@ public class JavaGUI {
         // Create instance of JavaGUI.
         JavaGUI window = new JavaGUI();
 
+		// Set label size/position.
 		window.label.setBounds(50,20,100,30);
 
 		// Set button size/position.	
