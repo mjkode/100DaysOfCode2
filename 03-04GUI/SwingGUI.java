@@ -1,4 +1,4 @@
-// Import Swing componets
+// Import Swing GUI componets
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
